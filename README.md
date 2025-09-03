@@ -145,7 +145,7 @@ CREATE TABLE `foodapp`.`orderhistory` (
 - Import the project into **Eclipse**  
 - Configure **DBConnection.java** with your database username & password  
 - Start your server (**Apache Tomcat**)  
-- Access the homepage at 👉 [http://localhost:8080/foodapp](http://localhost:8080/foodapp)  
+- Access the homepage at 👉 [http://localhost:8443/FoodApp/](http://localhost:8443/FoodApp/)
 
  **Project Homepage**
  When you run the project, the homepage looks like this:
