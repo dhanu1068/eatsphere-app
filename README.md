@@ -1,4 +1,4 @@
-# 🍴 Eatsphere Backend
+# 🍴 Eatsphere App
 
 **Project Overview**
 
