@@ -57,6 +57,7 @@
     </dependencies>
 
     <build>
+    <finalName>FoodApp</finalName>
         <plugins>
             <!-- Maven Compiler Plugin -->
             <plugin>
